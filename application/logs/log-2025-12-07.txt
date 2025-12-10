@@ -1,0 +1,37 @@
+ERROR - 2025-12-07 11:06:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ D:\laragon\www\bkk_praktek\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-12-07 11:06:00 --> Unable to connect to the database
+ERROR - 2025-12-07 11:10:21 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ D:\laragon\www\bkk_praktek\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-12-07 11:10:21 --> Unable to connect to the database
+ERROR - 2025-12-07 11:10:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ D:\laragon\www\bkk_praktek\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-12-07 11:10:31 --> Unable to connect to the database
+ERROR - 2025-12-07 11:10:42 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ D:\laragon\www\bkk_praktek\system\database\drivers\mysqli\mysqli_driver.php 201
+ERROR - 2025-12-07 11:10:42 --> Unable to connect to the database
+ERROR - 2025-12-07 11:20:53 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:30:16 --> Could not find the language line "form_validation_required"
+ERROR - 2025-12-07 11:30:16 --> Could not find the language line "form_validation_required"
+ERROR - 2025-12-07 11:36:17 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:36:33 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:38:57 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:39:12 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:39:22 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:41:23 --> Severity: error --> Exception: syntax error, unexpected '?>', expecting ')' D:\laragon\www\bkk_praktek\application\modules\frontpage\views\pages\karir.php 312
+ERROR - 2025-12-07 11:41:24 --> Severity: error --> Exception: syntax error, unexpected '?>', expecting ')' D:\laragon\www\bkk_praktek\application\modules\frontpage\views\pages\karir.php 312
+ERROR - 2025-12-07 11:58:10 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:58:10 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:59:34 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:59:34 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:59:56 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 11:59:57 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 12:01:25 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 12:01:26 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 12:01:40 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 12:01:41 --> 404 Page Not Found: /index
+ERROR - 2025-12-07 12:06:23 --> 404 Page Not Found: 
+ERROR - 2025-12-07 12:16:55 --> Query error: Unknown column 'name' in 'where clause' - Invalid query: SELECT *
+FROM `tb_users`
+WHERE `name` IS NULL
